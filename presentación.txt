@@ -1,4 +1,7 @@
+RAMA 2
+
 Nombre: Jorge Alejandro Gonzalez
 Edad: 30 Años
 Pais: Colombia
 Ciudad: Villavicencio
+Fecha de nacimiento: 30/07/1990

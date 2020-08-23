@@ -2,3 +2,4 @@ Nombre: Jorge Alejandro Gonzalez
 Edad: 30 Años
 Pais: Colombia
 Ciudad: Villavicencio
+Genero: Maculino
